@@ -1,0 +1,4377 @@
+[
+  {
+    "id": "T24-Q1",
+    "test": 24,
+    "number": 1,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding the Portuguese in India:\n1. The Portuguese introduced the Cartaz system to regulate maritime trade in the Indian Ocean.\n2. Francisco de Almeida advocated the policy known as the \"Blue Water Policy\".\n3. Goa was captured by the Portuguese from the Bijapur Sultanate.\n4. The Portuguese established their first factory in India at Surat.\nWhich of the statements given above are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q2",
+    "test": 24,
+    "number": 2,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Arrange the following events in correct chronological order starting from the earliest to the latest.\n1. Establishment of Fort St. George\n2. Acquisition of Bombay\n3. Foundation of Calcutta\n4. Grant of Diwani\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 3, 2, 4"
+      },
+      {
+        "key": "B",
+        "text": "2, 1, 4, 3"
+      },
+      {
+        "key": "C",
+        "text": "1, 2, 3, 4"
+      },
+      {
+        "key": "D",
+        "text": "2, 3, 1, 4"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q3",
+    "test": 24,
+    "number": 3,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "In the first quarter of seventeenth century, in which of the following cities/region was/were the factory/factories of the English East India Company located?\n1. Broach\n2. Chicacole\n3. Trichinopoly\nSelect the correct answer using the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2"
+      },
+      {
+        "key": "C",
+        "text": "3 only"
+      },
+      {
+        "key": "D",
+        "text": "2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q4",
+    "test": 24,
+    "number": 4,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding the Battle of Plassey:\n1. Mir Jafar participated in a conspiracy against Siraj-ud-Daulah.\n2. Jagat Seth financially supported the anti-Nawab conspiracy.\n3. The French contingent was commanded by St. Frais.\n4. Siraj-ud-Daulah died during the battle itself.\nWhich of the above statements are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3"
+      },
+      {
+        "key": "C",
+        "text": "2 and 4"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q5",
+    "test": 24,
+    "number": 5,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following statements is/are correct regarding the Anglo-Mughal conflict during the reign of Aurangzeb?\n1. During Child's War (1686-90), the English East India Company succeeded in securing extensive territorial concessions from the Mughal Empire.\n2. The conflict ended with Aurangzeb granting unrestricted trading privileges to the Company without imposing any penalty or compensation.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q6",
+    "test": 24,
+    "number": 6,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following were associated with Mir Qasim?\n1. Transfer of capital from Murshidabad to Munger.\n2. Abolition of internal trade duties.\n3. Participation in the Battle of Buxar.\n4. Introduction of Permanent Settlement.\nSelect the correct answer using the code below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3 only"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q7",
+    "test": 24,
+    "number": 7,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "With reference to the Hindu Nayab Wazirs of Oudh Sultanate, which of the following statements(s) is/are correct?\n1. Raja Tika Rai was 'Artha Mantri' of Nawab Aasafudaulah.\n2. Usually there were certain Hindu castes who were placed at the high positions in the State of Nawabs of Oudh.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 2"
+      },
+      {
+        "key": "C",
+        "text": "Only 1"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q8",
+    "test": 24,
+    "number": 8,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding Haidar Ali:\n1. He never formally assumed the title of Sultan of Mysore.\n2. He received military assistance and expertise from the French.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q9",
+    "test": 24,
+    "number": 9,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The British could not annex Punjab during the lifetime of Maharaja Ranjit Singh.\nReason (R): The British never attempted any political or military intervention in Punjab.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q10",
+    "test": 24,
+    "number": 10,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I                          List - II\nA. Francis Day                    1. Calcutta\nB. Job Charnock                   2. Madras\nC. Vasco da Gama                  3. Calicut\nD. Albuquerque                    4. Goa\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-3, B-4, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q11",
+    "test": 24,
+    "number": 11,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding Tipu Sultan:\n1. He introduced a new calendar known as Mauludi Calendar.\n2. He established a formal military alliance with Ottoman Empire against the British.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q12",
+    "test": 24,
+    "number": 12,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following were consequences of the Third Anglo-Mysore War?\n1. Treaty of Seringapatam.\n2. Death of Tipu Sultan.\n3. Payment of a large war indemnity by Mysore.\nSelect the correct answer using the code below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "3 only"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q13",
+    "test": 24,
+    "number": 13,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "With reference to Treaty of Mangalore, which of the following statements is/are correct?\n1. The Treaty of Mangalore ended the Second Anglo-Mysore War.\n2. The treaty restored conquered territories to both sides.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q14",
+    "test": 24,
+    "number": 14,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Match List - I with List - II and select the correct answer from the code given below:\nList - I (Voyagers)               List - II (Countries)\nA. Vasco da Gama                  1. Spain\nB. Christopher Columbus           2. Portugal\nC. Captain Cook                   3. Holland\nD. Abel Tasman                    4. Great Britain\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-4, C-3, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q15",
+    "test": 24,
+    "number": 15,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The acquisition of Bombay enabled the English East India Company to replace Surat as its principal western headquarters immediately after 1668.\nReason (R): Bombay possessed a natural harbour that was more suitable for maritime trade and naval activities than Surat.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q16",
+    "test": 24,
+    "number": 16,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I (Treaty)                 List - II (Year)\nA. Treaty of Madras               1. 1784\nB. Treaty of Mangalore            2. 1846\nC. Treaty of Seringapatam         3. 1769\nD. Treaty of Lahore               4. 1792\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-3, C-4, D-2"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-1, C-4, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-2, C-1, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q17",
+    "test": 24,
+    "number": 17,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following statements regarding the First Anglo-Sikh War and the Treaty of Lahore is/are correct?\n1. The First Anglo-Sikh War ended with the Treaty of Lahore.\n2. The Treaty of Lahore resulted in the British annexation of Punjab.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q18",
+    "test": 24,
+    "number": 18,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding the Sikh Kingdom:\n1. Maharaja Ranjit Singh organized the Khalsa army with European military advisers.\n2. He maintained friendly diplomatic relations with the British throughout his reign.\n3. He accepted British paramountcy over Punjab.\n4. He captured Kashmir from the Afghans.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "4 only"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q19",
+    "test": 24,
+    "number": 19,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I (Governor-General/Governor)   List - II (Associated Measure/Event)\nA. Robert Clive                        1. Dual Government\nB. Warren Hastings                     2. Regulating Act period\nC. Lord Cornwallis                     3. Permanent Settlement\nD. Lord Wellesley                      4. Subsidiary Alliance\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-4, B-3, C-1, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-4, C-2, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q20",
+    "test": 24,
+    "number": 20,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "With reference to the entry of European powers into India, which one of the following statements is NOT correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Portuguese captured Goa in 1499"
+      },
+      {
+        "key": "B",
+        "text": "The English opened their first factory in South India at Masulipatnam"
+      },
+      {
+        "key": "C",
+        "text": "In Eastern India, the English company opened its first factory in Orissa in 1633"
+      },
+      {
+        "key": "D",
+        "text": "Under the leadership of Dupleix, the French occupied Madras in 1746"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q21",
+    "test": 24,
+    "number": 21,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following statements regarding the Treaty of Allahabad is/are correct?\n1. The Treaty of Allahabad was signed in 1766 after the Battle of Buxar.\n2. Through this treaty, Shah Alam II granted the Diwani of Bengal, Bihar and Orissa to the Company.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q22",
+    "test": 24,
+    "number": 22,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Consider the following statements regarding the French East India Company:\n1. It was established during the reign of Louis XIV.\n2. The French possessed superior naval strength throughout the Carnatic Wars.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q23",
+    "test": 24,
+    "number": 23,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Battle of Buxar contributed more significantly than the Battle of Plassey to the establishment of British political supremacy in Northern India.\nReason (R): The Battle of Buxar was fought exclusively against the forces of Mir Jafar, who sought to recover Bengal from the East India Company.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q24",
+    "test": 24,
+    "number": 24,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I                           List - II\nA. Sir Thomas Roe                  1. Anglo-Mughal Conflict (1686-90)\nB. Captain Hawkins                 2. Special Envoy of King William III\nC. William Norris                  3. Court of Jahangir\nD. Child's War                     4. Ambassador of James I\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-4, C-2, D-3"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T24-Q25",
+    "test": 24,
+    "number": 25,
+    "topic": "Portuguese, Plassey, Mysore, Sikh",
+    "stem": "Which of the following statements is/are correct regarding the English East India Company?\n1. The English East India Company received a royal charter from Queen Elizabeth I in 1600 granting it exclusive trading rights in the East Indies.\n2. The Ostend Company received its trading charter before the English East India Company.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q1",
+    "test": 25,
+    "number": 1,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Drain of Wealth Theory, which of the following statements is/are correct?\n1. Dadabhai Naoroji was the foremost exponent of the Drain of Wealth Theory.\n2. The theory explained the continuous transfer of India's wealth to England without adequate return.\n3. The Indian National Congress rejected the Drain Theory in its Calcutta Session of 1896.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q2",
+    "test": 25,
+    "number": 2,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Permanent Settlement, which of the following statements is/are correct?\n1. It was introduced by Lord Cornwallis in 1793.\n2. Zamindars were recognized as landowners.\n3. The settlement was first implemented throughout the whole of British India.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1 and 2 only"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q3",
+    "test": 25,
+    "number": 3,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Ryotwari System, which of the statements given below is/are correct?\n1. It was introduced by Thomas Munro and Alexander Reed.\n2. Under this system, revenue was collected through Zamindars.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q4",
+    "test": 25,
+    "number": 4,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Mahalwari System, which of the following statements is/are correct?\n1. The village or mahal was the unit of revenue settlement.\n2. The village community was jointly responsible for payment of land revenue.\n3. The system covered mainly Madras Presidency and Assam.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q5",
+    "test": 25,
+    "number": 5,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Dadabhai Naoroji described the Drain of Wealth as the \"evil of all evils\".\nReason (R): He considered the Drain of Wealth to be the principal cause of poverty in India.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q6",
+    "test": 25,
+    "number": 6,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to British economic policies in India, which of the following statements is/are correct?\n1. Imperial Preference granted concessions to British imports in India.\n2. Indian exports to Britain faced relatively heavier duties.\n3. The policy promoted equal trading opportunities for Indian and British goods.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1 only"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q7",
+    "test": 25,
+    "number": 7,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to land revenue settlements in British India, which of the following statements is/are correct?\n1. Permanent Settlement covered about 19% of British India.\n2. Ryotwari Settlement covered about 51% of British India.\n3. Mahalwari Settlement covered about 30% of British India.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q8",
+    "test": 25,
+    "number": 8,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to Dadabhai Naoroji, which of the following statements is/are correct?\n1. He helped establish the London India Society in 1865.\n2. He became the first Indian elected to the British House of Commons in 1892.\n3. He was elected on the ticket of the Conservative Party.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q9",
+    "test": 25,
+    "number": 9,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Economically, one of the results of the British rule in India in the 19th century was the",
+    "options": [
+      {
+        "key": "A",
+        "text": "increase in the export of Indian handicrafts"
+      },
+      {
+        "key": "B",
+        "text": "growth in the number of Indian owned factories"
+      },
+      {
+        "key": "C",
+        "text": "commercialization of Indian agriculture"
+      },
+      {
+        "key": "D",
+        "text": "rapid increase in the urban population"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q10",
+    "test": 25,
+    "number": 10,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R)\nAssertion (A): The British Government introduced different land revenue system in different part of India.\nReason (R): It led to create different classes in Indian peasantry.\nSelect the correct answer from the codes given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q11",
+    "test": 25,
+    "number": 11,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to 'deindustrialization' which of the following statements is/are correct?\n1. This process started in 1813.\n2. Abolition of monopoly trade rights of East India Company aggravated the process.\nSelect the correct answer from the codes given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q12",
+    "test": 25,
+    "number": 12,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Who of the following were economic critics/critics of colonialism in India?\n1. Dadabhai Naoroji\n2. G. Subramaniam Iyer\n3. R. C. Dutt\nSelect the correct answer using the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q13",
+    "test": 25,
+    "number": 13,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I: Institution                    List-II: Founder\nA. Calcutta Madrasa                    1. Jonathan Duncan\nB. Sanskrit College, Benaras            2. Warren Hastings\nC. Banaras Hindu University            3. Madan Mohan Malaviya\nD. Asiatic Society                     4. William Jones\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-1, C-2, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q14",
+    "test": 25,
+    "number": 14,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Revolt of 1857, which of the following statements is/are correct?\n1. Mangal Pandey attacked British officers at Barrackpore on 29 March 1857.\n2. The revolt began at Meerut on 10 May 1857.\n3. The rebels captured Delhi on 12 May 1857.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q15",
+    "test": 25,
+    "number": 15,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Hunter Commission emphasized the development of primary education in India.\nReason (R): The Commission was appointed to review the progress of education after Wood's Despatch.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q16",
+    "test": 25,
+    "number": 16,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The annexation of Jhansi became an important cause for Rani Lakshmibai's participation in the Revolt of 1857.\nReason (R): Lord Dalhousie annexed Jhansi under the Doctrine of Lapse after the death of Gangadhar Rao without a natural heir.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q17",
+    "test": 25,
+    "number": 17,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to Wood's Despatch of 1854, which of the following statements is/are correct?\n1. It is known as the Magna Carta of English Education in India.\n2. It recommended the establishment of universities at Calcutta, Bombay and Madras.\n3. It recommended compulsory primary education for all Indians.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q18",
+    "test": 25,
+    "number": 18,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Calcutta Madarsa, which of the following statements is/are correct?\n1. It was established by Warren Hastings in 1780.\n2. It was established for the study of Muslim law and related subjects.\n3. English was the primary medium of instruction from the beginning.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q19",
+    "test": 25,
+    "number": 19,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I: Newspaper          List-II: Founder/Editor\nA. Kesari                  1. Abul Kalam Azad\nB. Al-Hilal                2. Bal Gangadhar Tilak\nC. Indian Opinion          3. Mahatma Gandhi\nD. The Commonweal          4. Annie Besant\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-4, C-3, D-1"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-2, C-4, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q20",
+    "test": 25,
+    "number": 20,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Vernacular Press Act, 1878, which of the following statements is/are correct?\n1. It was enacted during the tenure of Lord Lytton.\n2. It empowered district magistrates to demand security deposits from vernacular newspapers.\n3. It applied equally to English and vernacular newspapers.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q21",
+    "test": 25,
+    "number": 21,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I: Social Reformer              List-II: Associated Work\nA. Dayanand Saraswati                1. Ghulamgiri\nB. Jyotiba Phule                     2. Satyarth Prakash\nC. Shiv Narayan Agnihotri            3. Dev Shastra\nD. Annie Besant                      4. Theosophical Society\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-1, C-2, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q22",
+    "test": 25,
+    "number": 22,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to social reform legislations in British India, which of the following statements is/are correct?\n1. The Hindu Widow Remarriage Act was passed in 1856.\n2. The Age of Consent Act was passed in 1891.\n3. The Sharda Act fixed the minimum marriage age of girls at 14 years.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q23",
+    "test": 25,
+    "number": 23,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the Brahmo Samaj, which of the following statements is/are correct?\n1. It was founded by Raja Ram Mohan Roy in 1828.\n2. It supported idol worship as an essential part of religion.\n3. It was influenced by Western liberal thought.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q24",
+    "test": 25,
+    "number": 24,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "With reference to the reorganization of the Indian Army after 1857, which of the following statements is/are correct?\n1. The Peel Commission was appointed for army reorganization.\n2. The proportion of European soldiers in the army was increased.\n3. Recruitment after the revolt increasingly favored Gurkhas, Sikhs and Punjabis.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T25-Q25",
+    "test": 25,
+    "number": 25,
+    "topic": "Drain of Wealth, Land Revenue, 1857",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I                    List-II\nA. V.D. Savarkar          1. The Sepoy Mutiny and the Rebellion of 1857\nB. R.C. Majumdar          2. Eighteen Fifty-Seven\nC. Surendra Nath Sen      3. The Indian War of Independence 1857\nD. Sir Syed Ahmad Khan    4. Asbab-Ae-Baghawat-Ae-Hind\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-2, B-1, C-3, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q1",
+    "test": 26,
+    "number": 1,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the Calcutta Session of the Indian National Congress (1896) is/are correct?\n1. Rabindranath Tagore sang \"Vande Mataram\" during the session proceedings.\n2. The first woman to graduate from Calcutta University, Kadambini Ganguly, spoke at the Congress this Session\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q2",
+    "test": 26,
+    "number": 2,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Moderates preferred constitutional agitation rather than mass mobilization.\nReason (R): They believed British public opinion could be influenced through reasoned political arguments.\nSelect the correct answer using the code below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q3",
+    "test": 26,
+    "number": 3,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I                        List - II\nA. G. Subramania Iyer           1. The Bengalee\nB. Surendranath Banerjea        2. The Hindu\nC. Dadabhai Naoroji             3. Poverty and Un-British Rule\nD. A.O. Hume                    4. Founder of INC\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q4",
+    "test": 26,
+    "number": 4,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Consider the following statements regarding the Partition of Bengal:\n1. It was announced in July 1905.\n2. It came into effect on 16 October 1905.\n3. It divided Bengal into East Bengal and Assam, and Bengal.\n4. It was officially justified on administrative grounds.\nWhich of the above statements are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 3 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q5",
+    "test": 26,
+    "number": 5,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following were demands of the early Moderates?\n1. Expansion of Legislative Councils.\n2. Simultaneous ICS Examination in India and England.\n3. Immediate complete independence from British rule.\n4. Reduction in military expenditure.\nSelect the correct answer using the code below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q6",
+    "test": 26,
+    "number": 6,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding Dadabhai Naoroji is/are correct?\n1. Dadabhai Naoroji propounded the Drain Theory.\n2. After Sir Mancherjee Bhownaggree, He was the 2nd Indian elected to the British House of Commons.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q7",
+    "test": 26,
+    "number": 7,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Arrange the following events in correct chronological order starting from the earliest to the latest.\n1. Formation of Indian Association\n2. Formation of Indian National Congress\n3. Partition of Bengal\n4. Surat Split\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2, 3, 4"
+      },
+      {
+        "key": "B",
+        "text": "2, 1, 3, 4"
+      },
+      {
+        "key": "C",
+        "text": "1, 3, 2, 4"
+      },
+      {
+        "key": "D",
+        "text": "2, 3, 1, 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q8",
+    "test": 26,
+    "number": 8,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding A.O. Hume is/are correct?\n1. He served in the Indian Civil Service.\n2. He advocated political dialogue between Indians and the government.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q9",
+    "test": 26,
+    "number": 9,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Partition of Bengal generated opposition only because it disrupted administrative convenience.\nReason (R): Nationalists believed the partition was intended to weaken growing political consciousness through communal division.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q10",
+    "test": 26,
+    "number": 10,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Match List – I with List – II and choose the correct answer using the code given below the lists.\nList - I                          List - II\nA. Calcutta Session (1906)        1. Swaraj\nB. Surat Session (1907)           2. Split\nC. Bengal Partition               3. Curzon\nD. Dadabhai Naoroji               4. Congress President\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-4, B-2, C-3, D-1"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-4, C-2, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-1, C-4, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-2, B-3, C-1, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q11",
+    "test": 26,
+    "number": 11,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Consider the following statements regarding B G Tilak:\n1. Tilak popularized Ganapati and Shivaji festivals.\n2. Tilak opposed national education.\n3. Tilak edited Kesari.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1 and 3 only"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q12",
+    "test": 26,
+    "number": 12,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following were associated with the Swadeshi Movement?\n1. Boycott.\n2. National Education.\n3. Passive Resistance.\n4. Communal Electorates.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q13",
+    "test": 26,
+    "number": 13,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the Calcutta Session (1906) of the Indian National Congress is/are correct?\n1. The session declared Swaraj as one of the objectives of the Congress.\n2. The session was presided over by Bal Gangadhar Tilak.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q14",
+    "test": 26,
+    "number": 14,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Match List – I with List – II and choose the correct answer using the code given below the lists.\nList - I                    List - II\nA. Bipin Chandra Pal        1. Punjab\nB. Lala Lajpat Rai          2. Bengal\nC. Aurobindo Ghosh          3. New India\nD. Annie Besant             4. Bande Mataram\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-4, B-3, C-2, D-1"
+      },
+      {
+        "key": "D",
+        "text": "A-3, B-4, C-1, D-2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q15",
+    "test": 26,
+    "number": 15,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Moderates described British rule as ultimately beneficial for India's progress.\nReason (R): They believed constitutional reforms would gradually lead to greater Indian participation.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q16",
+    "test": 26,
+    "number": 16,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Consider the following statements regarding the Calcutta Session of 1906:\n1. It was presided over by Dadabhai Naoroji.\n2. Swaraj was adopted as a goal.\n3. Boycott was accepted.\n4. It witnessed the formal Surat Split.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q17",
+    "test": 26,
+    "number": 17,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the Allahabad Session (1888) of the Indian National Congress are correct?\n1. It was presided over by George Yule, the first Englishman to preside over the Congress.\n2. The session witnessed a significant increase in participation from different provinces of British India.\n3. The Congress formally demanded Complete Independence (Purna Swaraj) during this session.\n4. The session reflected the growing acceptance of constitutional agitation as a method of political advancement.\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2, 3 and 4"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 4 only"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q18",
+    "test": 26,
+    "number": 18,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I                  List - II\nA. W.C. Bonnerjee         1. First INC Session\nB. Badruddin Tyabji       2. Madras Session\nC. George Yule            3. First Muslim President\nD. Alfred Webb            4. First English President\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-3, C-4, D-2"
+      },
+      {
+        "key": "C",
+        "text": "A-4, B-2, C-1, D-3"
+      },
+      {
+        "key": "D",
+        "text": "A-3, B-4, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q19",
+    "test": 26,
+    "number": 19,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the First Session of the Indian National Congress (1885) is/are correct?\n1. The session coincided with another national political gathering at Calcutta.\n2. Surendranath Banerjea played a central organizational role in the session.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Only 1"
+      },
+      {
+        "key": "B",
+        "text": "Only 2"
+      },
+      {
+        "key": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "key": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q20",
+    "test": 26,
+    "number": 20,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Arrange the following events in correct chronological order starting from the earliest to the latest.\n1. Indian National Conference\n2. First INC Session\n3. Calcutta Session of INC\n4. Surat Split\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "2, 1, 3, 4"
+      },
+      {
+        "key": "B",
+        "text": "1, 2, 4, 3"
+      },
+      {
+        "key": "C",
+        "text": "1, 2, 3, 4"
+      },
+      {
+        "key": "D",
+        "text": "2, 3, 1, 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q21",
+    "test": 26,
+    "number": 21,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the Second Session of the Indian National Congress (1886) is/are correct?\n1. The Indian National Conference merged its activities with the Congress.\n2. The second Congress was held at Calcutta under Dadabhai Naoroji.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q22",
+    "test": 26,
+    "number": 22,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the Bengal Partition is/are correct?\n1. The Bengal Partition was annulled in 1912.\n2. The capital of British India was shifted from Calcutta to Delhi in the same year (1912).\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q23",
+    "test": 26,
+    "number": 23,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Match List – I with List – II and choose the correct answer using the code given below the lists.\nList - I              List - II\nA. Jugantar           1. Tilak\nB. The Bengalee       2. Surendranath Banerjea\nC. New India          3. Annie Besant\nD. Maratha            4. Barindra Kumar Ghose\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-4, B-2, C-3, D-1"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q24",
+    "test": 26,
+    "number": 24,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following were outcomes of the Partition of Bengal controversy?\n1. Rise of Swadeshi.\n2. Growth of National Education.\n3. Wider political participation.\n4. Immediate grant of Dominion Status.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T26-Q25",
+    "test": 26,
+    "number": 25,
+    "topic": "Congress, Moderates, Partition of Bengal",
+    "stem": "Which of the following statements regarding the early Congress are correct?\n1. It initially functioned as a forum for political dialogue.\n2. Its early leadership mainly came from educated middle classes.\n3. It demanded universal adult franchise from the beginning.\n4. Constitutional reforms formed an important part of its agenda.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q1",
+    "test": 27,
+    "number": 1,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding Bal Gangadhar Tilak is/are correct?\n1. He was one of the founders of the Deccan Education Society.\n2. He was associated with the establishment of the New English School at Pune.\n3. He presided over the Surat Session of the Indian National Congress in 1907.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q2",
+    "test": 27,
+    "number": 2,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I: Newspaper / Journal     List-II: Editor / Associated Leader\nA. Bande Mataram                1. Brahmabandhav Upadhyay\nB. Yugantar                     2. Bhupendranath Dutta\nC. Sandhya                      3. Aurobindo Ghosh\nD. New India                    4. Bipin Chandra Pal\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-4, C-3, D-2"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-1, C-3, D-2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q3",
+    "test": 27,
+    "number": 3,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding Aurobindo Ghosh is/are correct?\n1. He was tried in the Alipore Bomb Case and was defended by Chittaranjan Das.\n2. He was associated with the Anushilan Samiti and later shifted to Pondicherry, where he moved towards spiritual and philosophical work.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q4",
+    "test": 27,
+    "number": 4,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding the Chapekar brothers:\n1. Damodar Hari Chapekar and Balkrishna Hari Chapekar assassinated W. C. Rand, the Plague Commissioner of Pune, in 1897.\n2. The assassination was linked to popular resentment against the harsh plague-control measures adopted by the British authorities in Pune.\n3. The Chapekar brothers were directly associated with the Hindustan Republican Association.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q5",
+    "test": 27,
+    "number": 5,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding Abhinav Bharat is/are correct?\n1. Abhinav Bharat was founded by V.D. Savarkar and his brother Ganesh Savarkar, and it grew out of the earlier secret society called Mitra Mela.\n2. It was mainly a constitutional reform organisation that opposed revolutionary violence and worked through petitions to the British Parliament.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q6",
+    "test": 27,
+    "number": 6,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I: Revolutionary Literature / Text     List-II: Author / Associated Revolutionary\nA. The Indian War of Independence           1. V.D. Savarkar\nB. Bhavani Mandir                           2. Aurobindo Ghosh\nC. Bandi Jiwan                              3. Sachindra Nath Sanyal\nD. Why I am an Atheist                      4. Bhagat Singh\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-2, C-3, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q7",
+    "test": 27,
+    "number": 7,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding the Hindustan Republican Association (HRA):\n1. The Hindustan Republican Association was founded in 1924 by revolutionaries such as Ram Prasad Bismil, Sachindra Nath Sanyal and Jogesh Chandra Chatterjee.\n2. Its objective was to establish a Federal Republic of the United States of India through organised revolutionary action.\n3. After the Kakori Conspiracy Case, the organisation was renamed Abhinav Bharat.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q8",
+    "test": 27,
+    "number": 8,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following revolutionaries:\n1. Ajit Singh\n2. Lala Hardayal\n3. Rash Behari Bose\n4. Sachindra Nath Sanyal\nWhich of the above revolutionaries belonged to Punjab?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "C",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q9",
+    "test": 27,
+    "number": 9,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Who among the following established India House in London?\n1. Shyamji Krishna Varma\n2. Lala Hardayal\n3. Madan Lal Dhingra\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "3 only"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q10",
+    "test": 27,
+    "number": 10,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following pairs are correctly matched?\n1. Explosive Substances Act-1908\n2. Indian Press Act-1912\n3. Defence of India Act-1915\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1 and 2 only"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q11",
+    "test": 27,
+    "number": 11,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding the Morley-Minto Reforms, 1909:\n1. The reforms introduced separate electorates for Muslims in India.\n2. The reforms provided for full responsible government at the provincial level.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q12",
+    "test": 27,
+    "number": 12,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding the Simla Deputation, 1906:\n1. It demanded separate electorates for Muslims and greater representation in legislatures.\n2. It met Lord Minto at Simla.\n3. It was led by Aga Khan.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q13",
+    "test": 27,
+    "number": 13,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The Surat Session of 1907 resulted in a formal split between the Moderates and the Extremists within the Indian National Congress.\nReason (R): The split occurred mainly because of differences over the methods of struggle, the continuation of Swadeshi-Boycott programmes, and disagreement over the presidential candidate.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q14",
+    "test": 27,
+    "number": 14,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding Anushilan Samiti is/are correct?\n1. The Calcutta Anushilan Samiti was associated with Pramathanath Mitra.\n2. The Dacca Anushilan Samiti was associated with Pulin Behari Das.\n3. The organisation was linked with the revolutionary journal Yugantar\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q15",
+    "test": 27,
+    "number": 15,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Arrange the following events in the correct chronological order:\n1. Lucknow Pact\n2. Ghadar Party formation\n3. Home Rule League Movement\n4. Rowlatt Act\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 – 3 – 1 – 4"
+      },
+      {
+        "key": "B",
+        "text": "3 – 2 – 1 – 4"
+      },
+      {
+        "key": "C",
+        "text": "2 – 1 – 3 – 4"
+      },
+      {
+        "key": "D",
+        "text": "1 – 2 – 3 – 4"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q16",
+    "test": 27,
+    "number": 16,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding the Berlin Committee and the Kabul Provisional Government is/are correct?\n1. The Berlin Committee, also known as the Indian Independence Committee, was formed in Germany during the First World War by Indian revolutionaries to seek foreign support against British rule.\n2. The Provisional Government of India at Kabul was established in 1915 under the leadership of Subhas Chandra Bose with Japanese assistance.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q17",
+    "test": 27,
+    "number": 17,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding separate electorates during British rule in India:\n1. Separate electorates for Muslims were introduced by the Morley-Minto Reforms, 1909.\n2. The Communal Award, 1932 extended separate electorates to the Depressed Classes.\n3. The Poona Pact, 1932 retained separate electorates for the Depressed Classes but reduced the number of reserved seats.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "1 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q18",
+    "test": 27,
+    "number": 18,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Arrange the following revolutionary cases in the correct chronological order:\n1. Nasik Conspiracy Case\n2. Alipore Bomb Case\n3. Delhi Conspiracy Case\n4. Lahore Conspiracy Case\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 – 2 – 3 – 4"
+      },
+      {
+        "key": "B",
+        "text": "2 – 1 – 3 – 4"
+      },
+      {
+        "key": "C",
+        "text": "1 – 3 – 2 – 4"
+      },
+      {
+        "key": "D",
+        "text": "3 – 1 – 2 – 4"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q19",
+    "test": 27,
+    "number": 19,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): In 1913, the Muslim League adopted self-government under the British Empire as one of its objectives, marking a shift from its earlier loyalist position.\nReason (R): This shift was influenced by the changing political atmosphere after the annulment of Bengal Partition, growing nationalist pressure, and the desire for closer cooperation with the Indian National Congress.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q20",
+    "test": 27,
+    "number": 20,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding the Komagata Maru incident is/are correct?\n1. The Komagata Maru was an Indian ship carrying mainly Indian passengers.\n2. Passengers were largely Sikhs from Punjab, who were denied entry into Canada in 1914.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q21",
+    "test": 27,
+    "number": 21,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Arrange the following events in the correct chronological order:\n1. Formation of the Ghadar Party\n2. Formation of Tilak's Home Rule League\n3. Montagu Declaration\n4. Indian Press Act\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 - 1 - 2 - 3"
+      },
+      {
+        "key": "B",
+        "text": "1 - 4 - 2 - 3"
+      },
+      {
+        "key": "C",
+        "text": "4 - 2 - 1 - 3"
+      },
+      {
+        "key": "D",
+        "text": "1 - 2 - 4 - 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q22",
+    "test": 27,
+    "number": 22,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Which of the following statements regarding the Delhi Conspiracy Case is/are correct?\n1. The Delhi Conspiracy Case was related to the attempt to assassinate Lord Hardinge during his ceremonial entry into Delhi in 1912.\n2. Bhagat Singh and Batukeshwar Dutt were the main accused in this case.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q23",
+    "test": 27,
+    "number": 23,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Madam Bhikaji Cama is associated with which of the following?\n1. Unfurling an early version of the Indian national flag at Stuttgart in 1907\n2. Revolutionary nationalist activities from Europe\n3. Publication of the nationalist journal Bande Mataram from abroad\nSelect the correct answer using the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q24",
+    "test": 27,
+    "number": 24,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements:\n1. It blends Eastern spiritual traditions (like Buddhism and Hinduism) with Western philosophies.\n2. It was founded in New York in 1875.\n3. In 1882, the society relocated its global headquarters to Adyar, Chennai.\nThe statements given above are associated with:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bharat Mata Society"
+      },
+      {
+        "key": "B",
+        "text": "Theosophical Society"
+      },
+      {
+        "key": "C",
+        "text": "Paris Indian Society"
+      },
+      {
+        "key": "D",
+        "text": "Ghadar Society"
+      }
+    ]
+  },
+  {
+    "id": "T27-Q25",
+    "test": 27,
+    "number": 25,
+    "topic": "Extremists, Revolutionaries, Tilak",
+    "stem": "Consider the following statements regarding revolutionary songs and poems during the Indian National Movement:\n1. Sarfaroshi ki Tamanna was written by Bismil Azimabadi and later became popular among revolutionaries such as Ram Prasad Bismil and Bhagat Singh.\n2. Vande Mataram was composed by Bankim Chandra Chattopadhyay and became a major nationalist slogan during the Swadeshi Movement.\n3. Pagri Sambhal Jatta was associated with the agrarian unrest in Punjab and the movement led by Ajit Singh.\n4. Inquilab Zindabad was originally composed as a poem by Rabindranath Tagore during the anti-partition movement.\nWhich of the statements given above is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "C",
+        "text": "2, 3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 3 and 4 only"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q1",
+    "test": 28,
+    "number": 1,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Kheda Satyagraha, which of the statements given below is/are correct?\n1. It was launched due to crop failure and revenue demands by the government.\n2. The government had already suspended land revenue collection before the movement began.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q2",
+    "test": 28,
+    "number": 2,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Ahmedabad Mill Workers' Strike (1918), which of the following statements is/are correct?\n1. The dispute arose over the issue of plague bonus.\n2. Gandhiji undertook a fast to support the workers.\n3. The tribunal ultimately awarded a 35% wage increase.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q3",
+    "test": 28,
+    "number": 3,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Champaran Satyagraha, which of the following statements is/are correct?\n1. It was Gandhiji's first successful Satyagraha in India.\n2. The movement was launched against the Teen Kathiya System.\n3. Rajendra Prasad persuaded Gandhiji to take up the issue of Champaran farmers.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 3"
+      },
+      {
+        "key": "D",
+        "text": "1 and 3 only"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q4",
+    "test": 28,
+    "number": 4,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Bardoli Satyagraha, which of the following statements is/are correct?\n1. It was led by Vallabhbhai Patel in 1928.\n2. The title \"Sardar\" was conferred upon Patel by the women of Bardoli.\n3. It was primarily a tribal uprising in Gujarat.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q5",
+    "test": 28,
+    "number": 5,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Arrange the following events in correct chronological sequence using the code given below:\n1. Satyagrah against the Rowlatt Act\n2. Champaran Satyagraha\n3. Kheda Peasant struggle\n4. Ahmedabad Mill Strike\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "2, 4, 3, 1"
+      },
+      {
+        "key": "B",
+        "text": "1, 2, 3, 4"
+      },
+      {
+        "key": "C",
+        "text": "2, 1, 4, 3"
+      },
+      {
+        "key": "D",
+        "text": "3, 2, 4, 1"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q6",
+    "test": 28,
+    "number": 6,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Hunter Commission, which of the following statements is/are correct?\n1. It was appointed to investigate the Jallianwala Bagh Massacre.\n2. C.H. Setalvad was the only Indian member of the commission.\n3. The Commission held the Government fully responsible for the massacre.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q7",
+    "test": 28,
+    "number": 7,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The Rowlatt Act was widely opposed by Indian nationalists.\nReason (R): It allowed detention without trial and curtailed civil liberties.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q8",
+    "test": 28,
+    "number": 8,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Rabindranath Tagore surrendered his title of Knighthood after the Jallianwala Bagh Massacre.\nReason (R): He wanted to protest against British repression and brutality.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q9",
+    "test": 28,
+    "number": 9,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to Lala Lajpat Rai which of the following statements is/are correct?\n1. At first he was not in favour of the policy of Non-cooperation but later he joined in favour with Gandhi.\n2. Lala Lajpat Rai also participated in formation of Swaraj Party.\nSelect the correct answer from the codes given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 only"
+      },
+      {
+        "key": "C",
+        "text": "Both 1 and 2"
+      },
+      {
+        "key": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q10",
+    "test": 28,
+    "number": 10,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Non-Cooperation Movement, which of the following statements is/are correct?\n1. The Congress Special Session at Calcutta in September 1920 approved Gandhi's resolution on Non-Cooperation.\n2. C.R. Das initially opposed the resolution at Calcutta.\n3. C.R. Das later drafted the Non-Cooperation resolution at the Nagpur Session.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q11",
+    "test": 28,
+    "number": 11,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Gandhiji withdrew the Non-Cooperation Movement in February 1922.\nReason (R): The Chauri Chaura Incident indicated that the movement was turning violent.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q12",
+    "test": 28,
+    "number": 12,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The formation of the Swaraj Party represented a new political strategy within the national movement.\nReason (R): Its leaders rejected participation in all representative institutions established by the British Government.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "(A) is true, but (R) is false"
+      },
+      {
+        "key": "D",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q13",
+    "test": 28,
+    "number": 13,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Who among the following supported Swaraj Party in Central Legislative Assembly in pre-independent India?",
+    "options": [
+      {
+        "key": "A",
+        "text": "M.A. Jinnah"
+      },
+      {
+        "key": "B",
+        "text": "Maulana Abul Kalam Azad"
+      },
+      {
+        "key": "C",
+        "text": "Dr. Rajendra Prasad"
+      },
+      {
+        "key": "D",
+        "text": "Jawaharlal Nehru"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q14",
+    "test": 28,
+    "number": 14,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Which of the following statements regarding the Simon Commission is/are correct?\n1. The Simon Commission was appointed before the expiry of the statutory ten-year period.\n2. Lala Lajpat Rai succumbed immediately after the police lathi-charge during protests against it.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q15",
+    "test": 28,
+    "number": 15,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The Nehru Report was prepared as an Indian response to the Simon Commission.\nReason (R): The Report proposed constitutional reforms including Dominion Status and Fundamental Rights.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q16",
+    "test": 28,
+    "number": 16,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Independence for India League, which of the following statements is/are correct?\n1. It was founded in 1928.\n2. It was founded by Subhash Chandra Bose and Jawaharlal Nehru.\n3. It demanded Complete Independence instead of Dominion Status.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q17",
+    "test": 28,
+    "number": 17,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Who among the following had demanded first the dominion status for India?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rajagopalachari and Sardar Patel"
+      },
+      {
+        "key": "B",
+        "text": "Pt. Motilal Nehru and Govind Ballabh Pant"
+      },
+      {
+        "key": "C",
+        "text": "Sir Tej Bahadur Sapru and Jaykar"
+      },
+      {
+        "key": "D",
+        "text": "Jawaharlal Nehru and Jagjeevanram"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q18",
+    "test": 28,
+    "number": 18,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to Hindu Patriot, which of the statements given below is/are correct?\n1. Girish Chandra Ghosh was associated with the Indigo Movement.\n2. Harish Chandra Mukherjee supported exploited indigo cultivators.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q19",
+    "test": 28,
+    "number": 19,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Uttar Pradesh Kisan Sabha, which of the following statements is/are correct?\n1. It was formed through the efforts of Indra Narayan Dwivedi.\n2. Gauri Shankar Mishra was associated with its establishment.\n3. It helped mobilize large numbers of peasants.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q20",
+    "test": 28,
+    "number": 20,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Nai-Dhobi Band Movement, which of the following statements is/are correct?\n1. It originated in Pratapgarh district of Awadh.\n2. It was a social boycott movement against exploitative landlords.\n3. Baba Ramchandra initially led the movement from its inception.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q21",
+    "test": 28,
+    "number": 21,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to Baba Ramchandra, which of the following statements is/are correct?\n1. He was originally from Tamilnadu.\n2. He emerged as a prominent peasant leader in Awadh around 1920.\n3. He played an important role in strengthening the peasant movement.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q22",
+    "test": 28,
+    "number": 22,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to Swami Sahajanand Saraswati, which of the statements given below is/are correct?\n1. He founded the Kisan Sabha of Bihar.\n2. He advocated the abolition of the Zamindari system.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q23",
+    "test": 28,
+    "number": 23,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the All India Kisan Sabha, which of the following statements is/are correct?\n1. It was formed in 1936 as the All India Kisan Congress.\n2. It was later renamed as the All India Kisan Sabha.\n3. Swami Sahajanand Saraswati became its first President.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q24",
+    "test": 28,
+    "number": 24,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I                              List-II\nA. Baba Ramchandra                  1. Eka Movement\nB. Swami Sahajanand Saraswati       2. Oudh Kisan Sabha\nC. Madari Pasi                      3. Bihar Kisan Sabha\nD. Vallabhbhai Patel                4. Bardoli Satyagraha\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-3, C-2, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T28-Q25",
+    "test": 28,
+    "number": 25,
+    "topic": "Gandhi Satyagrahas, Non-Cooperation",
+    "stem": "With reference to the Eka Movement (1921-22), which of the following statements is/are correct?\n1. It was led by Madari Pasi.\n2. Its major centres included Hardoi, Barabanki, Bahraich and Sitapur.\n3. The peasants completely refused to pay rent to landlords.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q1",
+    "test": 29,
+    "number": 1,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following statements regarding the Gandhi-Irwin Pact is/are correct?\n1. It led to the suspension of the Civil Disobedience Movement.\n2. It provided for the immediate establishment of responsible government at the Centre.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q2",
+    "test": 29,
+    "number": 2,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Two statements are given below, one labeled as 'Assertion (A)' and the other as 'Reason (R)':\nAssertion (A): The First Round Table Conference succeeded in reaching a constitutional agreement.\nReason (R): The Indian National Congress did not participate in the First Round Table Conference.\nCodes:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R is the correct explanation of A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R is not the correct explanation of A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ]
+  },
+  {
+    "id": "T29-Q3",
+    "test": 29,
+    "number": 3,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Who of the following organized a march on the Tanjore coast to break the Salt Law in April in 1930?",
+    "options": [
+      {
+        "key": "A",
+        "text": "V. O. Chidambaram Pillai"
+      },
+      {
+        "key": "B",
+        "text": "C. Rajagopalachari"
+      },
+      {
+        "key": "C",
+        "text": "K. Kamaraj"
+      },
+      {
+        "key": "D",
+        "text": "Annie Besant"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q4",
+    "test": 29,
+    "number": 4,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following statements regarding the Government of India Act, 1935 are correct?\n1. It proposed an All-India Federation.\n2. Dyarchy was introduced in the Provinces.\n3. Provincial autonomy was granted.\n4. The Supreme Court of India was established under its provisions.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q5",
+    "test": 29,
+    "number": 5,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Arrange the following events in correct chronological sequence using the code given below:\n1. Gandhi-Irwin Pact\n2. Second Round Table Conference\n3. Civil Disobedience Movement\n4. Poona Pact\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "3,1,2,4"
+      },
+      {
+        "key": "B",
+        "text": "1,3,2,4"
+      },
+      {
+        "key": "C",
+        "text": "3,2,1,4"
+      },
+      {
+        "key": "D",
+        "text": "1,2,3,4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q6",
+    "test": 29,
+    "number": 6,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following statements regarding the Salt Satyagraha is/are correct?\n1. Gandhi selected Dandi because of its proximity to the Portuguese territory.\n2. The march covered approximately 240 km.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q7",
+    "test": 29,
+    "number": 7,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): Gandhi suspended the Civil Disobedience Movement in March 1931 through the Gandhi-Irwin Pact.\nReason (R): The Pact required Congress to participate in the Second Round Table Conference in exchange for release of political prisoners and withdrawal of salt law ordinances.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q8",
+    "test": 29,
+    "number": 8,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which among the following statements about the Poona Pact (1932) is NOT correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gandhi signed the pact while undertaking a fast unto death at Yerwada Jail."
+      },
+      {
+        "key": "B",
+        "text": "Communal Award was announced by British PM Ramsay MacDonald in August 1932."
+      },
+      {
+        "key": "C",
+        "text": "The Poona Pact reduced the total reserved seats for depressed classes compared to the Communal Award."
+      },
+      {
+        "key": "D",
+        "text": "The pact replaced separate electorates with reserved seats within a joint electorate."
+      }
+    ]
+  },
+  {
+    "id": "T29-Q9",
+    "test": 29,
+    "number": 9,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "With reference to the Government of India Act 1935, which of the following statements is/are correct?\n1. The Act established bicameral legislatures in all provinces of British India without exception.\n2. The All-India Federation proposed under the Act was successfully constituted and implemented.\nSelect the correct answer from the codes given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q10",
+    "test": 29,
+    "number": 10,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Match the following personalities associated with the Civil Disobedience Movement:\nList - I                          List - II\nA. Sarojini Naidu                 1. Organised CDM in NWFP (Khudai Khidmatgar)\nB. C. Rajagopalachari             2. Led Vedaranyam Salt March in Tamil Nadu\nC. Khan Abdul Ghaffar Khan        3. Continued salt campaign at Dandi after Gandhi's arrest\nD. Mahadev Desai                  4. Served as Gandhi's personal secretary during CDM\nCodes:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-2, B-1, C-3, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q11",
+    "test": 29,
+    "number": 11,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The Congress accepted the Federal provisions of the Government of India Act 1935 and participated in forming an All-India Federation.\nReason (R): Most princely states refused to accede to the proposed federation, making it constitutionally non-functional.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q12",
+    "test": 29,
+    "number": 12,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Match List - I with List - II and choose the correct answer using the code given below the lists.\nList - I (Conference/Event)           List - II (Associated Feature)\nA. First Round Table Conference       1. Gandhi attended; minority issue unresolved\nB. Second Round Table Conference      2. Congress absent\nC. Third Round Table Conference       3. Led to Congress participation in the Second RTC\nD. Gandhi-Irwin Pact                  4. Civil Disobedience Movement resumed soon after\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-4, B-3, C-1, D-2"
+      },
+      {
+        "key": "D",
+        "text": "A-2, B-4, C-3, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q13",
+    "test": 29,
+    "number": 13,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "With reference to the eleven-point demand submitted by Gandhi before the Civil Disobedience Movement, consider the following statements:\n1. One demand was related to the abolition of the salt tax on the common people.\n2. Gandhi demanded a fifty percent reduction in military expenditure.\n3. Protection of Indian textile industry through a tariff on foreign cloth was included.\n4. The demands also included release of all prisoners.\nWhich of the above statements is/are correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2, 3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q14",
+    "test": 29,
+    "number": 14,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following statements regarding Round Table Conference is/are correct?\n1. The Third Round Table Conference produced a White Paper in 1932 which directly led to the Montagu-Chelmsford Reforms.\n2. All major Indian political parties including Congress participated in the Third Round Table Conference held in November 1932.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q15",
+    "test": 29,
+    "number": 15,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following demands were part of Gandhi's eleven-point ultimatum before launching Civil Disobedience Movement?\n1. Reduction of land revenue by 50%\n2. Abolition of salt tax\n3. Repeal of Press Act\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 only"
+      },
+      {
+        "key": "B",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "C",
+        "text": "1, 2 and 3"
+      },
+      {
+        "key": "D",
+        "text": "2 and 3 only"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q16",
+    "test": 29,
+    "number": 16,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "What was the name of Indian who participated in all three Round Table Conferences?",
+    "options": [
+      {
+        "key": "A",
+        "text": "B. R. Ambedkar"
+      },
+      {
+        "key": "B",
+        "text": "Mahatma Gandhi"
+      },
+      {
+        "key": "C",
+        "text": "Muhammad Ali Jinnah"
+      },
+      {
+        "key": "D",
+        "text": "Tej Bahadur Sapru"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q17",
+    "test": 29,
+    "number": 17,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nStatement (A): All the ministries in the provinces resigned in 1939.\nReason (R): India was declared a belligerent nation without consulting Indian leaders.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q18",
+    "test": 29,
+    "number": 18,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the statements given below is/are correct?\n1. The Federal Court began functioning in 1939.\n2. The proposed federation under the 1935 Act never came into existence.\n3. Burma remained part of British India after 1935.\n4. Sindh became a separate province.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1,2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2,3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q19",
+    "test": 29,
+    "number": 19,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "With reference to the Uttar Pradesh Kisan Sabha, which of the following statements is/are correct?\n1. It was formed through the efforts of Indra Narayan Dwivedi.\n2. Gauri Shankar Mishra was associated with its establishment.\n3. It helped mobilize large numbers of peasants.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1, 2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q20",
+    "test": 29,
+    "number": 20,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):\nAssertion (A): The Civil Disobedience Movement witnessed wider participation than Non-Cooperation in some regions.\nReason (R): Women and peasants joined the movement in significant numbers.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q21",
+    "test": 29,
+    "number": 21,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Match List – I with List – II and choose the correct answer using the code given below the lists.\nList-I                    List-II\nA. Vithalbhai Patel       1. Central Legislative Assembly President\nB. Pattabhi Sitaramayya   2. Congress historian\nC. B.R. Ambedkar          3. Depressed Classes\nD. M.R. Jayakar           4. Liberal Federation\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-4, C-2, D-1"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-1, D-2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q22",
+    "test": 29,
+    "number": 22,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which of the following statements regarding the Third Round Table Conference is/are correct?\n1. The Congress participated through Mahatma Gandhi.\n2. The Labour Party boycotted the Conference.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q23",
+    "test": 29,
+    "number": 23,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Which one of the following statements is NOT correct about Mahatma Gandhi's Dandi March?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It was started from Sabarmati Ashram"
+      },
+      {
+        "key": "B",
+        "text": "The march terminated at Dandi, a village beside the sea."
+      },
+      {
+        "key": "C",
+        "text": "Mahatma Gandhi prepared salt at the seashore."
+      },
+      {
+        "key": "D",
+        "text": "It was altogether a pedestrian march."
+      }
+    ]
+  },
+  {
+    "id": "T29-Q24",
+    "test": 29,
+    "number": 24,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "Match List-I with List-II and select the correct answer using the code given below:\nList-I                          List-II\nA. Sarojini Naidu               1. Dharasana Salt Works\nB. C. Rajagopalachari           2. Khudai Khidmatgar\nC. Khan Abdul Ghaffar Khan      3. Vedaranyam March\nD. Abbas Tyabji                 4. Successor to Gandhi\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-3, C-2, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T29-Q25",
+    "test": 29,
+    "number": 25,
+    "topic": "Civil Disobedience, Round Table",
+    "stem": "With reference to the Civil Disobedience Movement which of the following statements is/are correct?\n1. Mahatma Gandhi was not punished for violating the salt law.\n2. Madan Mohan Malviya, Devadas Gandhi and K.M. Munsi were punished for violating the salt law.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q1",
+    "test": 30,
+    "number": 1,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the August Offer (1940) is/are correct?\n1. It proposed expansion of the Viceroy's Executive Council.\n2. It accepted the principle that Indians would frame their own Constitution.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q2",
+    "test": 30,
+    "number": 2,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nStatement (A): The Cripps Mission was successful despite the offer of 'Dominion Status' after the war.\nReason (R): The Congress opposed the provision that allowed provinces to secede from the Union.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q3",
+    "test": 30,
+    "number": 3,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and choose the correct answer using the code given below the lists.\nList-I                          List-II\nA. Forward Bloc                 1. Singapore\nB. Indian Independence League   2. Sarat Chandra Bose\nC. Azad Hind Government         3. Rash Behari Bose\nD. Tripuri Crisis               4. Pattabhi Sitaramayya\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-4, C-2, D-3"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q4",
+    "test": 30,
+    "number": 4,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Consider the following statements regarding the Cabinet Mission Plan:\n1. Provinces were grouped into four sections.\n2. It proposed a sovereign Pakistan.\n3. Constituent Assembly members were indirectly elected.\n4. Princely States were represented.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1, 2 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "1, 3 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "3 and 4 only"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q5",
+    "test": 30,
+    "number": 5,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the Tripuri Session (1939) of the Indian National Congress is/are correct?\n1. Subhas Chandra Bose secured re-election despite opposition from Gandhi who supported Pattabhi Sitaramayya.\n2. The Pant Resolution empowered the Congress President to constitute the Working Committee independently.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q6",
+    "test": 30,
+    "number": 6,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Arrange the following chronologically:\n1. Cripps Mission\n2. August Offer\n3. Individual Satyagraha\n4. Lahore Resolution\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "4,2,3,1"
+      },
+      {
+        "key": "B",
+        "text": "2,1,3,4"
+      },
+      {
+        "key": "C",
+        "text": "4,3,2,1"
+      },
+      {
+        "key": "D",
+        "text": "2,3,1,4"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q7",
+    "test": 30,
+    "number": 7,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and choose the correct answer using the code given below the lists.\nList-I                    List-II\nA. Vinoba Bhave           1. Presided over the first sitting of the Constituent Assembly after election as permanent Chairman\nB. Jawaharlal Nehru       2. Moved the Objectives Resolution in the Constituent Assembly\nC. C. Rajagopalachari     3. First Individual Satyagrahi\nD. Rajendra Prasad        4. Formula recognizing plebiscite in Muslim-majority districts\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-4, C-1, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-2, C-3, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q8",
+    "test": 30,
+    "number": 8,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Quit India Movement acquired a decentralized and regionally diverse character after August 1942.\nReason (R): The British Government detained most members of the Congress Working Committee before they could issue operational instructions.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q9",
+    "test": 30,
+    "number": 9,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the Indian National Army (INA) is/are correct?\n1. The first Indian National Army was organized from Indian prisoners of war under Mohan Singh.\n2. The Provisional Government of Azad Hind declared war against Britain and the United States.\n3. Captain Lakshmi Swaminathan commanded the Rani Jhansi Regiment, which included male combat units.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q10",
+    "test": 30,
+    "number": 10,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and choose the correct answer using the code given below the lists.\nList-I                    List-II\nA. Why Socialism?         1. Jayaprakash Narayan\nB. The Indian Struggle    2. Subhas Chandra Bose\nC. India Wins Freedom     3. Maulana Abul Kalam Azad\nD. Discovery of India     4. Jawaharlal Nehru\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "B",
+        "text": "A-1, B-4, C-3, D-2"
+      },
+      {
+        "key": "C",
+        "text": "A-3, B-4, C-2, D-1"
+      },
+      {
+        "key": "D",
+        "text": "A-1, B-2, C-3, D-4"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q11",
+    "test": 30,
+    "number": 11,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements is/are correct regarding the Demand for Pakistan?\n1. Lahore Resolution was passed in 1940.\n2. It explicitly used the term \"Pakistan\".\n3. A.K. Fazlul Huq moved the resolution.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q12",
+    "test": 30,
+    "number": 12,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Cabinet Mission recommended a strong centre because it considered the demand for Pakistan to be strategically and economically unviable.\nReason (R): The Mission believed that partition would neither solve the communal problem nor ensure the security of defence and communication networks.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true."
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)."
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q13",
+    "test": 30,
+    "number": 13,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and choose the correct answer using the code given below the lists.\nList-I                          List-II\nA. Mountbatten Plan             1. June 1947\nB. Indian Independence Act      2. Boundary Commission Award\nC. Radcliffe Award              3. July 1947\nD. Junagadh Accession to Pakistan 4. September 1947\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-4, B-3, C-2, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q14",
+    "test": 30,
+    "number": 14,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding constituent assembly are correct?\n1. Constituent Assembly first met in December 1946.\n2. Muslim League boycotted its first meeting.\n3. Sachchidananda Sinha served as temporary Chairman.\n4. Dr Rajendra Prasad was elected permanent Chairman.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1,2 and 4 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1,2,3 and 4"
+      },
+      {
+        "key": "D",
+        "text": "1 and 4 only"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q15",
+    "test": 30,
+    "number": 15,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the Simla Conference (1945) is/are correct?\n1. It was convened by Lord Wavell.\n2. The Muslim League insisted upon sole representation of Muslims.\n3. The Conference ended without agreement.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "C",
+        "text": "1 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2 and 3"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q16",
+    "test": 30,
+    "number": 16,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the Cripps Mission is/are correct?\n1. It proposed Dominion Status after the war.\n2. It allowed provinces to remain outside the proposed Union.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q17",
+    "test": 30,
+    "number": 17,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).\nAssertion (A): The Muslim League observed Deliverance Day in December 1939.\nReason (R): Congress ministries had resigned over India's involuntary participation in the Second World War.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q18",
+    "test": 30,
+    "number": 18,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and select the correct option from the code given below the lists.\nList-I                    List-II\nA. Aruna Asaf Ali         1. Underground Radio\nB. Usha Mehta             2. Flag hoisting, August 1942\nC. Ram Manohar Lohia      3. Congress Radio\nD. Jayaprakash Narayan    4. Hazaribagh Jail escape\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-2, B-3, C-1, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-3, B-1, C-4, D-2"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-2, B-4, C-3, D-1"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q19",
+    "test": 30,
+    "number": 19,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding Indian Princely States is/are correct?\n1. Hyderabad signed the Instrument of Accession before Independence.\n2. Junagadh acceded to Pakistan.\n3. Kashmir signed accession after tribal invasion.\n4. Travancore initially contemplated independence.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 and 3 only"
+      },
+      {
+        "key": "B",
+        "text": "1,2 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "2,3 and 4 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2,3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q20",
+    "test": 30,
+    "number": 20,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding the INA is/are correct?\n1. Rash Behari Bose handed over leadership to Subhas Chandra Bose.\n2. The Provisional Government of Free India was formed in Singapore.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "Only 1"
+      },
+      {
+        "key": "C",
+        "text": "Only 2"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q21",
+    "test": 30,
+    "number": 21,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Arrange the following events chronologically:\n1. Lahore Resolution\n2. Individual Satyagraha\n3. Tripuri Session\n4. Cripps Mission\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3,1,2,4"
+      },
+      {
+        "key": "B",
+        "text": "2,1,3,4"
+      },
+      {
+        "key": "C",
+        "text": "1,3,2,4"
+      },
+      {
+        "key": "D",
+        "text": "1,2,3,4"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q22",
+    "test": 30,
+    "number": 22,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Match List-I with List-II and select the correct answer from the code given below.\nList-I                        List-II\nA. Rajagopalachari Formula    1. Hindu-Muslim compromise\nB. Wavell Plan                2. Simla Conference\nC. Cabinet Mission            3. Three-tier federation\nD. Mountbatten Plan           4. Partition accepted\nCode:",
+    "options": [
+      {
+        "key": "A",
+        "text": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "key": "B",
+        "text": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "key": "C",
+        "text": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "key": "D",
+        "text": "A-3, B-4, C-1, D-2"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q23",
+    "test": 30,
+    "number": 23,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R);\nAssertion (A): The Constituent Assembly was not based on adult franchise.\nReason (R): Members were elected indirectly by Provincial Assemblies.\nSelect the correct answer from the code given below.",
+    "options": [
+      {
+        "key": "A",
+        "text": "(A) is false, but (R) is true"
+      },
+      {
+        "key": "B",
+        "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+      },
+      {
+        "key": "C",
+        "text": "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)"
+      },
+      {
+        "key": "D",
+        "text": "(A) is true, but (R) is false"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q24",
+    "test": 30,
+    "number": 24,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Which of the following statements regarding Subhas Chandra Bose is/are correct?\n1. He founded the Forward Bloc after resigning from Congress presidency.\n2. He escaped from India in January 1941.\n3. He addressed Azad Hind Radio from Berlin.\n4. He attended the Cabinet Mission discussions.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 and 2 only"
+      },
+      {
+        "key": "B",
+        "text": "2 and 4 only"
+      },
+      {
+        "key": "C",
+        "text": "1,2 and 3 only"
+      },
+      {
+        "key": "D",
+        "text": "1,2,3 and 4"
+      }
+    ]
+  },
+  {
+    "id": "T30-Q25",
+    "test": 30,
+    "number": 25,
+    "topic": "August Offer, Cripps, Quit India, INA",
+    "stem": "Consider the following statements regarding Lord Mountbatten:\n1. Lord Mountbatten was the last Viceroy of British India and the first Governor-General of independent India.\n2. The Mountbatten Plan was announced on 3 June 1946.\nSelect the correct answer from the code given below:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Neither 1 nor 2"
+      },
+      {
+        "key": "B",
+        "text": "1 only"
+      },
+      {
+        "key": "C",
+        "text": "2 only"
+      },
+      {
+        "key": "D",
+        "text": "Both 1 and 2"
+      }
+    ]
+  }
+]

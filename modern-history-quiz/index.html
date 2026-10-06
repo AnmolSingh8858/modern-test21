@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UPPSC / UPSC — Modern Indian History (Tests 24–30)</title>
+  <meta name="description" content="Practice Modern Indian History MCQs from ForumIAS UPPSC PTS 2026 (Tests 24–30). 175 questions." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0b0f14;
+      --surface: #12181f;
+      --surface2: #1a222d;
+      --border: #2a3544;
+      --text: #e8eef6;
+      --muted: #8b9bb0;
+      --accent: #3b82f6;
+      --accent-soft: rgba(59, 130, 246, 0.18);
+      --green: #22c55e;
+      --green-soft: rgba(34, 197, 94, 0.18);
+      --red: #ef4444;
+      --orange: #f59e0b;
+      --radius: 12px;
+      --font: 'DM Sans', system-ui, sans-serif;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.55;
+    }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px 80px; }
+
+    header {
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(11, 15, 20, 0.88);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 0;
+    }
+    .header-inner {
+      max-width: 860px; margin: 0 auto; padding: 0 16px;
+      display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+    }
+    .logo {
+      font-weight: 700; font-size: 1.05rem; letter-spacing: -0.02em;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .logo span { color: var(--accent); }
+    .badge {
+      font-size: 0.7rem; font-weight: 600; padding: 3px 8px;
+      background: var(--accent-soft); color: var(--accent); border-radius: 999px;
+    }
+    .stats { font-size: 0.8rem; color: var(--muted); }
+
+    .controls {
+      display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0 16px;
+      align-items: center;
+    }
+    select, button, input {
+      font-family: var(--font); font-size: 0.9rem;
+      border-radius: 8px; border: 1px solid var(--border);
+      background: var(--surface); color: var(--text);
+      padding: 9px 14px; outline: none; transition: border-color .15s, background .15s;
+    }
+    select:focus, input:focus { border-color: var(--accent); }
+    button {
+      cursor: pointer; font-weight: 600;
+      background: var(--accent); border-color: var(--accent); color: #fff;
+    }
+    button:hover:not(:disabled) { filter: brightness(1.08); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    button.secondary {
+      background: var(--surface2); border-color: var(--border); color: var(--text);
+    }
+    button.secondary:hover:not(:disabled) { background: var(--border); }
+    button.success {
+      background: var(--green); border-color: var(--green);
+    }
+    input[type="search"], input[type="text"], input[type="email"] { min-width: 160px; }
+    .name-row {
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+      width: 100%; margin-bottom: 4px;
+    }
+    .name-row label {
+      font-size: 0.85rem; color: var(--muted); font-weight: 500;
+    }
+    .name-row input { flex: 1; min-width: 200px; }
+
+    .modes {
+      display: flex; gap: 6px; background: var(--surface);
+      padding: 4px; border-radius: 10px; border: 1px solid var(--border);
+    }
+    .modes button {
+      background: transparent; border: none; color: var(--muted);
+      padding: 8px 14px; font-weight: 500; border-radius: 7px;
+    }
+    .modes button.active { background: var(--accent); color: #fff; }
+
+    .progress-bar {
+      height: 4px; background: var(--surface2); border-radius: 2px;
+      margin: 12px 0 20px; overflow: hidden;
+    }
+    .progress-bar > div {
+      height: 100%; background: var(--accent); width: 0%; transition: width .25s;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 22px 18px;
+      margin-bottom: 16px;
+      transition: border-color .15s;
+    }
+    .card:hover { border-color: #3a4658; }
+    .q-meta {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+      font-size: 0.78rem; color: var(--muted); font-family: var(--mono);
+    }
+    .q-year {
+      background: var(--accent-soft); color: var(--accent);
+      padding: 2px 8px; border-radius: 6px; font-weight: 600;
+    }
+    .q-stem {
+      font-size: 1.05rem; font-weight: 500; margin-bottom: 16px;
+      color: var(--text); line-height: 1.6;
+    }
+    .options { display: flex; flex-direction: column; gap: 8px; }
+    .opt {
+      display: flex; align-items: flex-start; gap: 12px;
+      padding: 12px 14px; border-radius: 9px;
+      border: 1px solid var(--border); background: var(--surface2);
+      cursor: pointer; transition: all .12s; text-align: left;
+      font-size: 0.95rem; color: var(--text); width: 100%;
+      user-select: none;
+    }
+    .opt:hover { border-color: var(--accent); background: var(--accent-soft); }
+    .opt .key {
+      flex-shrink: 0; width: 28px; height: 28px; border-radius: 50%;
+      background: var(--bg); border: 2px solid var(--border);
+      display: grid; place-items: center; font-weight: 600; font-size: 0.8rem;
+      font-family: var(--mono); color: var(--muted);
+      transition: all .12s;
+    }
+    .opt.selected {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      box-shadow: 0 0 0 1px var(--accent);
+    }
+    .opt.selected .key {
+      background: var(--accent); color: #fff; border-color: var(--accent);
+    }
+    .opt.selected .key::after {
+      content: '✓';
+      font-size: 0.85rem;
+    }
+    .opt.selected .key { font-size: 0; }
+    .opt:disabled { cursor: default; opacity: 0.9; }
+    .opt:disabled:hover { border-color: var(--border); background: var(--surface2); }
+    .opt.selected:disabled {
+      border-color: var(--accent); background: var(--accent-soft);
+    }
+
+    .quiz-nav {
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 12px; margin-top: 20px; flex-wrap: wrap;
+    }
+    .score-pill {
+      font-size: 0.85rem; color: var(--muted);
+      background: var(--surface2); padding: 6px 12px; border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    .score-pill strong { color: var(--text); }
+
+    .year-section { margin-bottom: 32px; }
+    .year-title {
+      font-size: 1.15rem; font-weight: 700; margin-bottom: 12px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .year-title .count {
+      font-size: 0.75rem; font-weight: 500; color: var(--muted);
+      background: var(--surface2); padding: 3px 9px; border-radius: 999px;
+    }
+
+    .empty {
+      text-align: center; padding: 48px 20px; color: var(--muted);
+    }
+    .empty h2 { color: var(--text); margin-bottom: 8px; }
+
+    .overlay {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.7);
+      display: none; align-items: center; justify-content: center; z-index: 100;
+      padding: 16px;
+    }
+    .overlay.show { display: flex; }
+    .modal {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; padding: 28px; max-width: 440px; width: 100%;
+      text-align: center;
+    }
+    .modal h2 { font-size: 1.35rem; margin-bottom: 8px; }
+    .modal .big-score {
+      font-size: 2.4rem; font-weight: 700; color: var(--accent);
+      margin: 12px 0; font-family: var(--mono);
+    }
+    .modal p { color: var(--muted); margin-bottom: 16px; font-size: 0.95rem; }
+    .modal .actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    .toast {
+      position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 12px 20px; border-radius: 10px; z-index: 200;
+      font-size: 0.9rem; display: none; box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    .toast.show { display: block; animation: fadeIn .2s; }
+    .toast.ok { border-color: var(--green); color: var(--green); }
+    .toast.err { border-color: var(--red); color: var(--red); }
+    @keyframes fadeIn { from { opacity: 0; transform: translateX(-50%) translateY(8px); } }
+
+    footer {
+      text-align: center; padding: 24px 16px; color: var(--muted);
+      font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 40px;
+    }
+
+    .config-hint {
+      font-size: 0.75rem; color: var(--muted); margin-top: 8px;
+      padding: 10px 12px; background: var(--surface2); border-radius: 8px;
+      border: 1px dashed var(--border);
+    }
+
+    @media (max-width: 560px) {
+      .q-stem { font-size: 0.98rem; }
+      .card { padding: 16px; }
+      .name-row input { min-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="logo">Modern <span>History</span> <span class="badge">Tests 24–30</span></div>
+      <div class="stats" id="globalStats">Loading…</div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <!-- Student name + email config -->
+    <div class="name-row" style="margin-top:20px">
+      <label for="studentName">Student name</label>
+      <input type="text" id="studentName" placeholder="Enter your full name" autocomplete="name" />
+    </div>
+
+    <div class="controls">
+      <div class="modes">
+        <button class="active" data-mode="browse" id="btnBrowse">Browse</button>
+        <button data-mode="quiz" id="btnQuiz">Quiz</button>
+      </div>
+      <select id="testFilter">
+        <option value="all">All Tests</option>
+      </select>
+      <input type="search" id="search" placeholder="Search questions…" />
+      <button class="secondary" id="btnShuffle" style="display:none">Shuffle</button>
+      <button id="btnStartQuiz" style="display:none">Start Quiz</button>
+    </div>
+
+    <div class="progress-bar" id="progressWrap" style="display:none">
+      <div id="progressFill"></div>
+    </div>
+
+    <div id="browseView"></div>
+    <div id="quizView" style="display:none"></div>
+  </div>
+
+  <div class="overlay" id="resultOverlay">
+    <div class="modal">
+      <h2>Submit answers?</h2>
+      <p id="resultSummary">You answered 0 of 0 questions.</p>
+      <div class="big-score" id="resultScore" style="font-size:1.1rem;color:var(--muted)">Ready to send</div>
+      <p style="font-size:0.85rem">Your name and selected answers will be emailed to the teacher.</p>
+      <div class="actions">
+        <button class="success" id="btnSubmitEmail">Submit &amp; Email</button>
+        <button class="secondary" id="btnReview">Keep reviewing</button>
+      </div>
+      <div class="config-hint" id="emailHint" style="display:none;margin-top:14px;text-align:left">
+        Teacher: set your email in <code>index.html</code> → search for <code>TEACHER_EMAIL</code>
+      </div>
+    </div>
+  </div>
+
+  <div class="overlay" id="doneOverlay">
+    <div class="modal">
+      <h2>Submitted ✓</h2>
+      <p id="doneMsg">Answers sent successfully.</p>
+      <div class="actions">
+        <button id="btnNewQuiz">New quiz</button>
+        <button class="secondary" id="btnBackBrowse">Browse</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <footer>
+    UPSC Prelims · Indian Economy (2015–2025) · Practice only · Select answers &amp; submit with your name
+  </footer>
+
+  <script>
+    /* ============================================================
+       TEACHER CONFIG — change this email to receive submissions
+       Uses FormSubmit.co (free, no account needed for basic use)
+       First time: they may ask you to confirm the email once.
+       ============================================================ */
+    const TEACHER_EMAIL = "rajputrudra2002@gmail.com";  // ← PUT YOUR EMAIL HERE
+
+    let ALL = [];
+    let mode = 'browse';
+    let quizQueue = [];
+    let quizIdx = 0;
+    let answers = {}; // id -> selected key
+
+    function toast(msg, type) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.className = 'toast show ' + (type || '');
+      setTimeout(() => t.classList.remove('show'), 3200);
+    }
+
+    async function init() {
+      const res = await fetch('questions.json');
+      ALL = await res.json();
+      document.getElementById('globalStats').textContent =
+        `${ALL.length} questions · ${[...new Set(ALL.map(q => q.test))].length} tests`;
+
+      const years = [...new Set(ALL.map(q => q.test))].sort((a,b) => a - b);
+      const sel = document.getElementById('testFilter');
+      years.forEach(y => {
+        const o = document.createElement('option');
+        o.value = y; o.textContent = 'Test ' + y;
+        sel.appendChild(o);
+      });
+
+      // restore name
+      const saved = localStorage.getItem('modern_history_student_name');
+      if (saved) document.getElementById('studentName').value = saved;
+      document.getElementById('studentName').addEventListener('change', e => {
+        localStorage.setItem('modern_history_student_name', e.target.value.trim());
+      });
+
+      sel.addEventListener('change', render);
+      document.getElementById('search').addEventListener('input', render);
+      document.getElementById('btnBrowse').addEventListener('click', () => setMode('browse'));
+      document.getElementById('btnQuiz').addEventListener('click', () => setMode('quiz'));
+      document.getElementById('btnStartQuiz').addEventListener('click', startQuiz);
+      document.getElementById('btnShuffle').addEventListener('click', () => {
+        if (!requireName()) return;
+        quizQueue = shuffle([...filtered()]);
+        quizIdx = 0; answers = {};
+        renderQuiz();
+      });
+      document.getElementById('btnSubmitEmail').addEventListener('click', submitToEmail);
+      document.getElementById('btnReview').addEventListener('click', () => {
+        document.getElementById('resultOverlay').classList.remove('show');
+      });
+      document.getElementById('btnNewQuiz').addEventListener('click', () => {
+        document.getElementById('doneOverlay').classList.remove('show');
+        startQuiz();
+      });
+      document.getElementById('btnBackBrowse').addEventListener('click', () => {
+        document.getElementById('doneOverlay').classList.remove('show');
+        setMode('browse');
+      });
+
+      if (TEACHER_EMAIL.includes('example.com') || !TEACHER_EMAIL.includes('@')) {
+        document.getElementById('emailHint').style.display = 'block';
+      }
+
+      render();
+    }
+
+    function requireName() {
+      const name = document.getElementById('studentName').value.trim();
+      if (!name) {
+        toast('Please enter student name first', 'err');
+        document.getElementById('studentName').focus();
+        return false;
+      }
+      return true;
+    }
+
+    function filtered() {
+      const y = document.getElementById('testFilter').value;
+      const q = document.getElementById('search').value.trim().toLowerCase();
+      return ALL.filter(item => {
+        if (y !== 'all' && String(item.test) !== y) return false;
+        if (q && !item.stem.toLowerCase().includes(q) &&
+            !item.options.some(o => o.text.toLowerCase().includes(q))) return false;
+        return true;
+      });
+    }
+
+    function setMode(m) {
+      mode = m;
+      document.getElementById('btnBrowse').classList.toggle('active', m === 'browse');
+      document.getElementById('btnQuiz').classList.toggle('active', m === 'quiz');
+      document.getElementById('browseView').style.display = m === 'browse' ? '' : 'none';
+      document.getElementById('quizView').style.display = m === 'quiz' ? '' : 'none';
+      document.getElementById('btnStartQuiz').style.display = m === 'quiz' ? '' : 'none';
+      document.getElementById('btnShuffle').style.display = m === 'quiz' ? '' : 'none';
+      document.getElementById('progressWrap').style.display = 'none';
+      if (m === 'browse') render();
+      else {
+        document.getElementById('quizView').innerHTML =
+          '<div class="empty"><h2>Ready for a quiz?</h2><p>Enter your name above, pick a test (or All), then hit <strong>Start Quiz</strong>.<br>Click an option to select (tick) your answer.</p></div>';
+      }
+    }
+
+    function render() {
+      if (mode === 'browse') renderBrowse();
+    }
+
+    function renderBrowse() {
+      const list = filtered();
+      const byYear = {};
+      list.forEach(q => {
+        if (!byYear[q.test]) byYear[q.test] = [];
+        byYear[q.test].push(q);
+      });
+      const years = Object.keys(byYear).map(Number).sort((a,b) => b - a);
+      const root = document.getElementById('browseView');
+      if (!years.length) {
+        root.innerHTML = '<div class="empty"><h2>No matches</h2><p>Try another test or search term.</p></div>';
+        return;
+      }
+      root.innerHTML = years.map(y => `
+        <div class="year-section">
+          <div class="year-title">Test ${y} <span class="count">${byYear[y].length} Qs</span></div>
+          ${byYear[y].map(q => cardHTML(q, false)).join('')}
+        </div>
+      `).join('');
+    }
+
+    function cardHTML(q, interactive) {
+      const opts = q.options.map(o => {
+        const selected = answers[q.id] === o.key ? ' selected' : '';
+        return `
+        <button type="button" class="opt${selected}" data-id="${q.id}" data-key="${o.key}" ${interactive ? '' : 'disabled'}>
+          <span class="key">${o.key}</span>
+          <span>${escapeHtml(o.text)}</span>
+        </button>`;
+      }).join('');
+      return `
+        <div class="card" id="card-${q.id}">
+          <div class="q-meta">
+            <span class="q-year">Test ${q.test}</span>
+            <span>Q${q.number}</span>
+            ${answers[q.id] ? `<span style="color:var(--accent)">Answered: ${answers[q.id]}</span>` : ''}
+          </div>
+          <div class="q-stem">${escapeHtml(q.stem)}</div>
+          <div class="options">${opts}</div>
+        </div>
+      `;
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function startQuiz() {
+      if (!requireName()) return;
+      quizQueue = shuffle([...filtered()]);
+      if (!quizQueue.length) {
+        document.getElementById('quizView').innerHTML =
+          '<div class="empty"><h2>No questions</h2><p>Change the test filter.</p></div>';
+        return;
+      }
+      quizIdx = 0;
+      answers = {};
+      document.getElementById('progressWrap').style.display = '';
+      renderQuiz();
+    }
+
+    function renderQuiz() {
+      const root = document.getElementById('quizView');
+      if (quizIdx >= quizQueue.length) {
+        showSubmitModal();
+        return;
+      }
+      const q = quizQueue[quizIdx];
+      const pct = (quizIdx / quizQueue.length * 100).toFixed(1);
+      document.getElementById('progressFill').style.width = pct + '%';
+
+      const answeredCount = Object.keys(answers).length;
+      root.innerHTML = `
+        ${cardHTML(q, true)}
+        <div class="quiz-nav">
+          <div class="score-pill">
+            Q <strong>${quizIdx + 1}</strong> / ${quizQueue.length}
+            · Answered <strong>${answeredCount}</strong>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button type="button" class="secondary" id="btnPrev" ${quizIdx === 0 ? 'disabled' : ''}>Previous</button>
+            <button type="button" id="btnNext">${quizIdx === quizQueue.length - 1 ? 'Finish' : 'Next'}</button>
+            <button type="button" class="success" id="btnSubmitNow">Submit</button>
+          </div>
+        </div>
+      `;
+
+      // Option click → tick answer
+      root.querySelectorAll('.opt').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          const id = btn.dataset.id;
+          const key = btn.dataset.key;
+          answers[id] = key;
+          // update UI
+          root.querySelectorAll('.opt').forEach(b => b.classList.remove('selected'));
+          btn.classList.add('selected');
+          // update answered counter without full re-render
+          const pill = root.querySelector('.score-pill');
+          if (pill) {
+            pill.innerHTML = `Q <strong>${quizIdx + 1}</strong> / ${quizQueue.length} · Answered <strong>${Object.keys(answers).length}</strong>`;
+          }
+        });
+      });
+
+      document.getElementById('btnNext').addEventListener('click', () => {
+        quizIdx++;
+        renderQuiz();
+      });
+      document.getElementById('btnPrev').addEventListener('click', () => {
+        if (quizIdx > 0) { quizIdx--; renderQuiz(); }
+      });
+      document.getElementById('btnSubmitNow').addEventListener('click', showSubmitModal);
+    }
+
+    function showSubmitModal() {
+      const total = quizQueue.length;
+      const answered = Object.keys(answers).length;
+      document.getElementById('resultSummary').textContent =
+        `${document.getElementById('studentName').value.trim()} answered ${answered} of ${total} questions.`;
+      document.getElementById('resultScore').textContent =
+        answered === total ? 'All questions answered' : `${total - answered} still blank`;
+      document.getElementById('resultOverlay').classList.add('show');
+      document.getElementById('progressFill').style.width =
+        (Math.min(quizIdx + 1, total) / total * 100).toFixed(1) + '%';
+    }
+
+    async function submitToEmail() {
+      if (!requireName()) return;
+      const name = document.getElementById('studentName').value.trim();
+      if (TEACHER_EMAIL.includes('example.com') || !TEACHER_EMAIL.includes('@')) {
+        toast('Teacher: set TEACHER_EMAIL in index.html first', 'err');
+        document.getElementById('emailHint').style.display = 'block';
+        return;
+      }
+
+      const btn = document.getElementById('btnSubmitEmail');
+      btn.disabled = true;
+      btn.textContent = 'Sending…';
+
+      // Build readable answer sheet
+      let body = `Student: ${name}\n`;
+      body += `Submitted: ${new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })}\n`;
+      body += `Test filter: ${document.getElementById('testFilter').value}\n`;
+      body += `Total questions in quiz: ${quizQueue.length}\n`;
+      body += `Answered: ${Object.keys(answers).length}\n`;
+      body += `\n========== ANSWER SHEET ==========\n\n`;
+
+      quizQueue.forEach((q, i) => {
+        const selected = answers[q.id] || '— (not answered)';
+        const optText = q.options.find(o => o.key === answers[q.id]);
+        body += `${i + 1}. [${q.test} Q${q.number}] ${q.stem.slice(0, 120)}${q.stem.length > 120 ? '…' : ''}\n`;
+        body += `   → Selected: ${selected}${optText ? ' — ' + optText.text.slice(0, 80) : ''}\n\n`;
+      });
+
+      // FormSubmit.co — free email forwarding
+      const formData = new FormData();
+      formData.append('_subject', `Modern History Quiz — ${name}`);
+      formData.append('_template', 'box');
+      formData.append('_captcha', 'false');
+      formData.append('Student Name', name);
+      formData.append('Answered', `${Object.keys(answers).length} / ${quizQueue.length}`);
+      formData.append('Test Filter', document.getElementById('testFilter').value);
+      formData.append('Full Answer Sheet', body);
+
+      try {
+        const res = await fetch(`https://formsubmit.co/ajax/${TEACHER_EMAIL}`, {
+          method: 'POST',
+          body: formData,
+          headers: { 'Accept': 'application/json' }
+        });
+        if (!res.ok) throw new Error('Send failed');
+        document.getElementById('resultOverlay').classList.remove('show');
+        document.getElementById('doneMsg').textContent =
+          `Answers for ${name} have been emailed.`;
+        document.getElementById('doneOverlay').classList.add('show');
+        toast('Submitted successfully', 'ok');
+      } catch (err) {
+        console.error(err);
+        // Fallback: open mailto
+        const mailto = `mailto:${TEACHER_EMAIL}?subject=${encodeURIComponent('Modern History Quiz — ' + name)}&body=${encodeURIComponent(body)}`;
+        window.location.href = mailto;
+        toast('Opened email client as fallback', 'ok');
+        document.getElementById('resultOverlay').classList.remove('show');
+        document.getElementById('doneOverlay').classList.add('show');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Submit & Email';
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
